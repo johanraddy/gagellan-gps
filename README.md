@@ -1,1 +1,1 @@
-# gagellan-gps
+# magellan-gps
